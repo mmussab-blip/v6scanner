@@ -84,10 +84,8 @@ SKIP_COINS = {
 BINANCE_BASE   = "https://api.binance.com/api/v3"
 COINGECKO_BASE = "https://api.coingecko.com/api/v3"
 
-# PythonAnywhere free plan mein allowed APIs:
-# 1. CoinGecko (primary)
-# 2. Binance (agar local PC par chal raha ho)
-USE_COINGECKO = True   # PythonAnywhere par True rakhein
+# Railway.app Binance allow karta hai — seedha Binance use karo
+USE_COINGECKO = False
 
 
 # ─────────────────────────────────────────────
