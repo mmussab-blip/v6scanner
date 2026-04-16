@@ -1,1 +1,1 @@
-worker: python v6_scanner_fullmarket.py
+worker: python v6_scanner_fullmarket_railway.py
